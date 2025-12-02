@@ -1,4 +1,4 @@
-Gold Price Prediction Using Machine Learning
+Gold Price Prediction 
 
 This project builds a regression model to predict future gold prices using historical financial indicators. The dataset includes variables such as gold price, stock indices, crude oil price, and currency exchange rates.
 
